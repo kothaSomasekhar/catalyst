@@ -23,7 +23,7 @@ dist-ssr
 *.sw?
 .env
 
-
+.README.md
 # Windows/WSL Metadata
 *.Zone.Identifier
 $RECYCLE.BIN/
