@@ -1,30 +1,59 @@
-# Antigravity Catalyst
-
+# 🌌 Antigravity Catalyst
 **AI-Driven Adaptive Education Platform**
 
-Antigravity Catalyst is a hackathon project designed to revolutionize career preparation. It uses Generative AI (Gemini 1.5 Flash) to create personalized learning paths, interactive lessons, and realistic job simulation scenarios.
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](# 🌌 Antigravity Catalyst
+**AI-Driven Adaptive Education Platform**
 
-## Features
+[![Vercel Deployment](https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](PASTE_YOUR_VERCEL_LINK_HERE)
 
-- **Trajectory Mapping**: Dynamic 5-step career roadmaps generated instantly.
-- **Deep Dive Modules**: AI-generated lessons with detailed content and estimated reading times.
-- **Career Simulator**: Scenarios tailored to specific roadmap nodes to test knowledge application.
-- **Resume Analysis**: Upload a PDF resume to get a 2026-readiness score and critical skill gap analysis.
+---
 
-## Tech Stack
+## 🚀 The Vision
+**Antigravity Catalyst** is a high-performance career architect designed to navigate the 2026 job market. By leveraging **Google Gemini 1.5 Flash**, we eliminate the "gravity" of traditional, static learning. Catalyst analyzes your current standing and builds a frictionless path to your professional future.
 
-- **Frontend**: React, Vite, TypeScript
-- **Styling**: Vanilla CSS (Glassmorphism, Dark Space Theme)
-- **AI**: Google Gemini 1.5 Flash
-- **Persistence**: LocalStorage (Hackathon Mode)
+## ✨ Key Features
+* **🛰️ Trajectory Mapping**: Instant, dynamic 5-step career roadmaps that evolve with your goals.
+* **📖 Learning Modules**: AI-generated lessons with precise technical content and estimated reading times.
+* **🎮 Career Simulator**: Real-world job scenarios tailored to your roadmap nodes to test knowledge application.
+* **📑 Resume Analysis**: Upload your PDF to receive a **2026-Readiness Score** and a surgical breakdown of your critical skill gaps.
 
-## Setup
 
-1. Clone repo
-2. `npm install`
-3. Create `.env` with `VITE_GEMINI_KEY`
-4. `npm run dev`
 
-## Deployment
+## 🛠️ Tech Stack
+* **Frontend**: React, Vite, TypeScript
+* **Intelligence**: Google Gemini 1.5 Flash API
+* **Styling**: Vanilla CSS (Glassmorphism & Dark Space Theme)
+* **Deployment**: Vercel
 
-Configured for Vercel with single-page application routing.
+## 📦 Installation & Setup
+To run the project in your local environment:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/kothaSomasekhar/catalyst.git](https://github.com/kothaSomasekhar/catalyst.git))
+
+---
+
+## 🚀 The Vision
+**Antigravity Catalyst** is a high-performance career architect designed to navigate the 2026 job market. By leveraging **Google Gemini 1.5 Flash**, we eliminate the "gravity" of traditional, static learning. Catalyst analyzes your current standing and builds a frictionless path to your professional future.
+
+## ✨ Key Features
+* **🛰️ Trajectory Mapping**: Instant, dynamic 5-step career roadmaps that evolve with your goals.
+* **📖 Learning Modules**: AI-generated lessons with precise technical content and estimated reading times.
+* **🎮 Career Simulator**: Real-world job scenarios tailored to your roadmap nodes to test knowledge application.
+* **📑 Resume Analysis**: Upload your PDF to receive a **2026-Readiness Score** and a surgical breakdown of your critical skill gaps.
+
+
+
+## 🛠️ Tech Stack
+* **Frontend**: React, Vite, TypeScript
+* **Intelligence**: Google Gemini 1.5 Flash API
+* **Styling**: Vanilla CSS (Glassmorphism & Dark Space Theme)
+* **Deployment**: Vercel
+
+## 📦 Installation & Setup
+To run the project in your local environment:
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/kothaSomasekhar/catalyst.git](https://github.com/kothaSomasekhar/catalyst.git)
