@@ -30,4 +30,5 @@ $RECYCLE.BIN/
 
 # Personal Editor Settings
 .vscode/
-.idea/
+.idea/node_modules
+dist
